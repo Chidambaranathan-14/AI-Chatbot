@@ -1,4 +1,4 @@
-﻿# AI-Chatbot
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d9ebd1ad-95d8-4c5c-a31f-fe93cb5e2a51" />﻿# AI-Chatbot
  
 Markdown
 
@@ -51,6 +51,11 @@ Execute the main Python script from your terminal:
 Bash:
 python chatbot_1.py
 Type your queries naturally.
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f0e8a1fb-9026-478d-abcf-efb098015ce7" />
+
+
 
 Type exit at any point to close down the chat application safely.
 
